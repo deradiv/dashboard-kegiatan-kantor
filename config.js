@@ -1,7 +1,7 @@
 window.DASHBOARD_CONFIG = {
   organizationName: "BPS KABUPATEN NABIRE",
-  weatherTemperature: "24°C",
-  weatherDescription: "Cerah • Kabanjahe",
+  weatherTemperature: "29°C",
+  weatherDescription: "Cerah • Nabire",
   weatherIcon: "☀️",
   /*
     MODE DATA:
